@@ -1,0 +1,18 @@
+.jumbotron {
+    background: url(../assests/pexels-photo-302899.webp) fixed;
+    background-size: cover;
+    height: 100vh;
+    box-shadow: 1px 11px 30px var(--gray);
+}
+
+.jumbo-container {
+    padding-top: 25%;
+}
+
+.jumbo-header {
+    font-size: 75px;
+}
+
+.jumbo-para {
+    font-size: 25px;
+}
